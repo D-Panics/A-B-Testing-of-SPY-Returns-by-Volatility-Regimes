@@ -3,5 +3,6 @@ This project implements an A/B style test on SPY daily returns to investigate wh
 
 ## Key Results:
 
--No statistically significant difference in mean next-day returns across volatility regimes (p > 0.05).
--Provides an example of hypothesis formulation, A/B testing, and statistical interpretation in a financial context.
+-- No statistically significant difference in mean next-day returns across volatility regimes (p > 0.05).
+
+-- Provides an example of hypothesis formulation, A/B testing, and statistical interpretation in a financial context.
